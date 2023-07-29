@@ -17,7 +17,7 @@ Construct training data frame
 
 ## Analysis
 
-The analysis is performed in R studio, and the code can be found in the `Titanic_Survival_Analysis.R` file. The analysis includes the following steps:
+The analysis is performed in Jupyter Notebook, and the code can be found in the `Titanic_Survival_Analysis.ipynb` file. The analysis includes the following steps:
 
 1. Data Loading and Exploration: Load the dataset and explore its structure, missing values, and summary statistics.
 2. Data Preprocessing: Handle missing data, perform feature engineering, and prepare the dataset for modeling.
