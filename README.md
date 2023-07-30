@@ -6,7 +6,7 @@ This repository contains a predictive analysis of survival rates on the Titanic 
 
 The dataset used in this analysis is the famous "Titanic: Machine Learning from Disaster" dataset from Kaggle. It contains information about passengers who were onboard the Titanic, including whether they survived or not. The dataset is divided into two files: `train.csv` (used for training the models) and `test.csv` (used for evaluating the models).
 
-##Methodology:
+## Methodology:
 
 Construct training data frame
 •	Logistic Regression
